@@ -1,3 +1,4 @@
+<img src="Screenshot_2026-08-04_23_44_04.png" alt="Elite">. 
 # asa_delta
 o painel do projeto asa delta
 O Projeto Asa Delta é uma plataforma unificada e robusta de Open-Source Intelligence (OSINT), construída em Python para realizar consultas complexas e enriquecimento de dados sobre indivíduos e entidades brasileiras.
