@@ -26,4 +26,4 @@ Sistema de Ajuda Integrado, com suporte por palavras-chave. Basta digitar sua d�
 
 Respostas otimizadas para fornecer as informações de forma rápida, clara e sem conteúdo desnecessário.
 
-   beloved by minty
+   beloved by João'Xspam
